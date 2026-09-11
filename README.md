@@ -1,4 +1,4 @@
-# Hello World!, I'm Shuhang
+# Hello World!, I'm Shuhang 👋
 
 I'm a **4th-year Computer Science student at the Universidad Politécnica de Madrid (UPM)** 
 
