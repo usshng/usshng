@@ -45,7 +45,7 @@ A 2D platform game developed in **Unity and C#** following a penguin's journey a
 
 ---
 
-### 📱 Javle — Android App
+### 📱 [Javle — Android App](https://github.com/Qiu2025/javle)
 
 An educational Android application inspired by Wordle, focused on solving **Java programming challenges**.
 
@@ -107,19 +107,6 @@ Route-finding application for the **Mexico City Metro network** using artificial
 * Collaborative software development
 
 `Python` `A*` `Algorithms` `Artificial Intelligence`
-
----
-
-## 📚 Areas of Interest
-
-* Software Engineering
-* Systems Programming
-* Operating Systems
-* Algorithms & Data Structures
-* Mobile Development
-* Human-Computer Interaction
-* Game Development
-* Compilers & Programming Languages
 
 ---
 
