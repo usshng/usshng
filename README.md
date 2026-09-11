@@ -68,12 +68,3 @@ Route-finding application for the **Mexico City Metro network** using artificial
 `Python` `A*` `Algorithms` `Artificial Intelligence`
 
 ---
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shuhang%20Pan-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shuhangpan/)
-[![GitHub](https://img.shields.io/badge/GitHub-usshng-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/usshng)
-
----
-
-> Always learning, building and improving one project at a time.
