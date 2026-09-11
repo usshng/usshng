@@ -6,7 +6,7 @@ Throughout my degree, I've had the opportunity to learn and work on projects usi
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Languages
 
@@ -27,7 +27,7 @@ Throughout my degree, I've had the opportunity to learn and work on projects usi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🐧 QQ — 2D Platformer
 
