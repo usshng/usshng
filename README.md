@@ -95,7 +95,7 @@ Lexical and syntactic analyzer for a JavaScript-inspired programming language de
 
 ---
 
-### 🚇 Mexico City Metro Route Finder
+### 🚇 [Mexico City Metro Route Finder](https://github.com/Qiu2025/metro-cdmx)
 
 Route-finding application for the **Mexico City Metro network** using artificial intelligence search techniques.
 
