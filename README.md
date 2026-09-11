@@ -33,14 +33,6 @@ Throughout my degree, I've had the opportunity to learn and work on projects usi
 
 A 2D platform game developed in **Unity and C#** following a penguin's journey across different environments to return home.
 
-**Highlights**
-
-* Character movement with jumping, double jumping and dash mechanics
-* Checkpoints, collectibles and progression system
-* Audio and scene management systems
-* Player statistics and level completion tracking
-* User testing and iterative level design
-
 `Unity` `C#` `Game Development` `User Testing`
 
 ---
@@ -48,15 +40,6 @@ A 2D platform game developed in **Unity and C#** following a penguin's journey a
 ### 📱 [Javle — Android App](https://github.com/Qiu2025/javle)
 
 An educational Android application inspired by Wordle, focused on solving **Java programming challenges**.
-
-**Highlights**
-
-* User authentication and persistent sessions
-* SQLite local database
-* Camera and gallery integration for user avatars
-* GPS-based location functionality
-* Remote API integration
-* Custom lists and multiple Android activities/fragments
 
 `Java` `Android` `SQLite` `REST APIs`
 
@@ -66,15 +49,6 @@ An educational Android application inspired by Wordle, focused on solving **Java
 
 A Unix-style command-line shell implemented in **C**.
 
-**Highlights**
-
-* Command execution and process management
-* Pipes between processes
-* Input/output/error redirections
-* Background execution
-* Signal handling
-* Built-in commands including `cd`, `umask` and `limit`
-
 `C` `Linux` `Processes` `POSIX`
 
 ---
@@ -83,14 +57,6 @@ A Unix-style command-line shell implemented in **C**.
 
 Lexical and syntactic analyzer for a JavaScript-inspired programming language developed in **Java**.
 
-**Highlights**
-
-* Lexical analysis and token generation
-* Recursive-descent parser
-* Symbol table management
-* Type and declaration handling
-* Syntax validation
-
 `Java` `Compilers` `Parsing` `Language Processing`
 
 ---
@@ -98,13 +64,6 @@ Lexical and syntactic analyzer for a JavaScript-inspired programming language de
 ### 🚇 [Mexico City Metro Route Finder](https://github.com/Qiu2025/metro-cdmx)
 
 Route-finding application for the **Mexico City Metro network** using artificial intelligence search techniques.
-
-**Highlights**
-
-* Metro network modelling
-* A* search algorithm
-* Heuristic-based route calculation
-* Collaborative software development
 
 `Python` `A*` `Algorithms` `Artificial Intelligence`
 
