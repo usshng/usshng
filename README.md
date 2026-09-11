@@ -29,7 +29,7 @@ Throughout my degree, I've had the opportunity to learn and work on projects usi
 
 ## Featured Projects
 
-### 🐧 QQ — 2D Platformer
+### 🐧 [QQ — 2D Platformer](https://github.com/Qiu2025/qq-adventures)
 
 A 2D platform game developed in **Unity and C#** following a penguin's journey across different environments to return home.
 
